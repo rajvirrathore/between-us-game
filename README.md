@@ -1,5 +1,7 @@
 # Between Us — two-player online compatibility game
 
+Play the game: [between-us-game-six.vercel.app](https://between-us-game-six.vercel.app/)
+
 A mobile-friendly web game with room codes, private slider answers, synchronized reveals, 115 questions with a randomized selection of 5-15 per game, and a final alignment recap. This is an independent, unofficial game, not affiliated with the publishers of *Are We Compatible?*.
 
 ## Setup (about 10 minutes)
